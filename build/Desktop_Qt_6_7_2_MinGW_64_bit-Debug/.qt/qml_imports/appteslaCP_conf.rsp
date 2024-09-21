@@ -1,0 +1,14 @@
+-rootPath
+E:/Programming/teslaCP
+-cmake-output
+-output-file
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/appteslaCP_conf.cmake
+-importPath
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/teslaCP
+-importPath
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+E:/Programming/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_teslaCP.qrc
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appteslaCP_raw_qml_0.qrc

@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appteslaCP_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Programming/teslaCP",
+	"CMAKE_SOURCE_DIR" : "E:/Programming/teslaCP",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appteslaCP_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/appteslaCP_autogen.dir/AutoRcc_SearchBar_OXL5PYN2JW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "SearchBar" ],
+	"OUTPUT_CHECKSUM" : "OXL5PYN2JW",
+	"OUTPUT_NAME" : "qrc_SearchBar.cpp",
+	"RCC_EXECUTABLE" : "E:/Programming/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/appteslaCP_autogen.dir/AutoRcc_SearchBar_OXL5PYN2JW_Used.txt",
+	"SOURCE" : "E:/Programming/teslaCP/ui/RightScreen/SearchBar.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/qt/qml/teslaCP/">
+    <file alias="ui/Main.qml">E:/Programming/teslaCP/ui/Main.qml</file>
+    <file alias="ui/TaskBar/TaskBar.qml">E:/Programming/teslaCP/ui/TaskBar/TaskBar.qml</file>
+    <file alias="ui/TaskBar/Volume.qml">E:/Programming/teslaCP/ui/TaskBar/Volume.qml</file>
+    <file alias="ui/TaskBar/Acclimatization.qml">E:/Programming/teslaCP/ui/TaskBar/Acclimatization.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">E:/Programming/teslaCP/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">E:/Programming/teslaCP/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/MapConfig.qml">E:/Programming/teslaCP/ui/RightScreen/MapConfig.qml</file>
+    <file alias="ui/RightScreen/TopBar.qml">E:/Programming/teslaCP/ui/RightScreen/TopBar.qml</file>
+    <file alias="ui/RightScreen/SearchBar.qml">E:/Programming/teslaCP/ui/RightScreen/SearchBar.qml</file>
+    <file alias="qml.qrc">E:/Programming/teslaCP/qml.qrc</file>
+  </qresource>
+</RCC>
+

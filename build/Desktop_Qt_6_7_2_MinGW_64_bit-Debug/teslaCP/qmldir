@@ -1,0 +1,13 @@
+module teslaCP
+typeinfo appteslaCP.qmltypes
+prefer :/qt/qml/teslaCP/
+Main 1.0 ui/Main.qml
+TaskBar 1.0 ui/TaskBar/TaskBar.qml
+Volume 1.0 ui/TaskBar/Volume.qml
+Acclimatization 1.0 ui/TaskBar/Acclimatization.qml
+RightScreen 1.0 ui/RightScreen/RightScreen.qml
+LeftScreen 1.0 ui/LeftScreen/LeftScreen.qml
+MapConfig 1.0 ui/RightScreen/MapConfig.qml
+TopBar 1.0 ui/RightScreen/TopBar.qml
+SearchBar 1.0 ui/RightScreen/SearchBar.qml
+

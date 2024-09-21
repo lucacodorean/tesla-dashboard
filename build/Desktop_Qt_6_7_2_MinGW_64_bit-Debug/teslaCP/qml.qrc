@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/TaskBar/TaskBar.qml</file>
+        <file>ui/Main.qml</file>
+        <file>ui/RightScreen/RightScreen.qml</file>
+        <file>ui/LeftScreen/LeftScreen.qml</file>
+        <file>ui/RightScreen/MapConfig.qml</file>
+        <file>ui/assets/r7JNPAF.png</file>
+        <file>ui/assets/car_view_mic.png</file>
+        <file>ui/assets/carSettings.png</file>
+        <file>ui/assets/carLocked.png</file>
+        <file>ui/assets/carUnlocked.png</file>
+        <file>ui/RightScreen/TopBar.qml</file>
+        <file>ui/assets/userImage.png</file>
+        <file>ui/RightScreen/SearchBar.qml</file>
+        <file>ui/assets/searchIcon.png</file>
+        <file>ui/TaskBar/Acclimatization.qml</file>
+        <file>ui/assets/decreaseTemperature.png</file>
+        <file>ui/assets/increaseTemperature.png</file>
+        <file>ui/assets/volumeLoud.png</file>
+        <file>ui/assets/volumeLow.png</file>
+        <file>ui/assets/volumeMaximum.png</file>
+        <file>ui/TaskBar/Volume.qml</file>
+        <file>ui/assets/volumeNone.png</file>
+    </qresource>
+</RCC>

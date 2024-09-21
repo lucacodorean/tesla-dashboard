@@ -1,0 +1,167 @@
+{
+    "classes": [
+        {
+            "className": "SystemController",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "car_locked",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newCar_locked",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "set_car_locked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "temperature",
+                    "returnType": "double"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newTemperatue",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "set_car_temperature",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "user",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newUser",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "set_user",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "current_time",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newCurrent_time",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "set_current_time",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "car_locked",
+                    "notify": "car_lockedChanged",
+                    "read": "car_locked",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "set_car_locked"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "temperature",
+                    "notify": "temperatureChanged",
+                    "read": "temperature",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "set_car_temperature"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "user",
+                    "notify": "userChanged",
+                    "read": "user",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "set_user"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "current_time_display",
+                    "notify": "timeChanged",
+                    "read": "current_time",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "set_current_time"
+                }
+            ],
+            "qualifiedClassName": "backend::SystemController",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "car_lockedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "temperatureChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "userChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "timeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SystemController.h",
+    "outputRevision": 68
+}

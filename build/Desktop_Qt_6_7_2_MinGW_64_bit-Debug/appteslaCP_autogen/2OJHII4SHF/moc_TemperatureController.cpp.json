@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "className": "TemperatureController",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "inside_temperature",
+                    "returnType": "double"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newInside_temperature",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "set_inside_temperature",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "inside_temperature",
+                    "notify": "inside_temperatureChanged",
+                    "read": "inside_temperature",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "set_inside_temperature"
+                }
+            ],
+            "qualifiedClassName": "backend::TemperatureController",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "inside_temperatureChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "TemperatureController.h",
+    "outputRevision": 68
+}

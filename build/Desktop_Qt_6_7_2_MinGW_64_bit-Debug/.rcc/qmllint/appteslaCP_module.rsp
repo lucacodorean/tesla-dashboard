@@ -1,0 +1,10 @@
+-I
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-I
+E:/Programming/Qt/6.7.2/mingw_64/./qml
+--resource
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_teslaCP.qrc
+--resource
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appteslaCP_raw_qml_0.qrc
+--module
+teslaCP

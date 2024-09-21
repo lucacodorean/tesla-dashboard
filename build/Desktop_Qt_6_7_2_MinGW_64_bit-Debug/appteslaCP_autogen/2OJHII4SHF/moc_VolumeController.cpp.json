@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "className": "VolumeController",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "volume",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newVolume",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "set_volume",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "volume",
+                    "notify": "volumeChanged",
+                    "read": "volume",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "set_volume"
+                }
+            ],
+            "qualifiedClassName": "backend::VolumeController",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "volumeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "VolumeController.h",
+    "outputRevision": 68
+}

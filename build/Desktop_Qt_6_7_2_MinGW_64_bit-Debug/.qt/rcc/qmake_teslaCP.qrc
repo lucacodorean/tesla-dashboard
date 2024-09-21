@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/teslaCP">
+    <file alias="qmldir">E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/teslaCP/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,13 @@
+--resource
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_teslaCP.qrc
+--resource
+E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appteslaCP_raw_qml_0.qrc
+/qt/qml/teslaCP/ui/Main.qml
+/qt/qml/teslaCP/ui/TaskBar/TaskBar.qml
+/qt/qml/teslaCP/ui/TaskBar/Volume.qml
+/qt/qml/teslaCP/ui/TaskBar/Acclimatization.qml
+/qt/qml/teslaCP/ui/RightScreen/RightScreen.qml
+/qt/qml/teslaCP/ui/LeftScreen/LeftScreen.qml
+/qt/qml/teslaCP/ui/RightScreen/MapConfig.qml
+/qt/qml/teslaCP/ui/RightScreen/TopBar.qml
+/qt/qml/teslaCP/ui/RightScreen/SearchBar.qml
