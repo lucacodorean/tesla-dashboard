@@ -9,6 +9,7 @@
     <file alias="ui/RightScreen/MapConfig.qml">E:/Programming/teslaCP/ui/RightScreen/MapConfig.qml</file>
     <file alias="ui/RightScreen/TopBar.qml">E:/Programming/teslaCP/ui/RightScreen/TopBar.qml</file>
     <file alias="ui/RightScreen/SearchBar.qml">E:/Programming/teslaCP/ui/RightScreen/SearchBar.qml</file>
+    <file alias="ui/RightScreen/MarkerPoint.qml">E:/Programming/teslaCP/ui/RightScreen/MarkerPoint.qml</file>
     <file alias="qml.qrc">E:/Programming/teslaCP/qml.qrc</file>
   </qresource>
 </RCC>

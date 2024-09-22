@@ -78,14 +78,14 @@
 				6,
 				7,
 				8,
-				9
+				9,
+				10
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				10,
 				11,
 				12,
 				13,
@@ -94,7 +94,9 @@
 				16,
 				17,
 				18,
-				19
+				19,
+				20,
+				21
 			]
 		}
 	],
@@ -157,6 +159,12 @@
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/teslaCP/ui/RightScreen/MarkerPoint.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/teslaCP/qml.qrc",
 			"sourceGroupIndex" : 0
 		},
@@ -212,6 +220,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/teslaCP/ui/RightScreen/SearchBar.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/teslaCP/ui/RightScreen/MarkerPoint.qml.rule",
 			"sourceGroupIndex" : 1
 		},
 		{

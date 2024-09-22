@@ -23,9 +23,7 @@ Rectangle {
 
     MapConfig { id: configuredMap }
 
-    TopBar {
-        id: topBar
-    }
+    TopBar { id: topBar }
 
     SearchBar {
         id: navigationBar
@@ -37,7 +35,7 @@ Rectangle {
             leftMargin: 15
         }
 
-        width: parent.width * 1/3
+        width:  parent.width * 1/3
         height: parent.height * 1/12
     }
 }

@@ -77,10 +77,6 @@ Rectangle {
         width: parent.width / 40
         fillMode: Image.PreserveAspectFit
         source: "qrc:/ui/assets/userImage.png"
-        MouseArea {
-            //anchors.fill: parent
-            /// on clicked tbe
-        }
     }
 
     Text {

@@ -10,4 +10,5 @@ LeftScreen 1.0 ui/LeftScreen/LeftScreen.qml
 MapConfig 1.0 ui/RightScreen/MapConfig.qml
 TopBar 1.0 ui/RightScreen/TopBar.qml
 SearchBar 1.0 ui/RightScreen/SearchBar.qml
+MarkerPoint 1.0 ui/RightScreen/MarkerPoint.qml
 

@@ -14,6 +14,11 @@ Window {
 
     RightScreen {
         id: rightScreen
+
+        Component.onCompleted: {
+            gpsHandler.x1 = gpsHandler.y1 = 0.0;
+            gpsHandler.x2 = gpsHandler.y2 = 0.0;
+        }
     }
 
     LeftScreen {

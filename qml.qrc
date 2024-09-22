@@ -22,5 +22,8 @@
         <file>ui/assets/volumeMaximum.png</file>
         <file>ui/TaskBar/Volume.qml</file>
         <file>ui/assets/volumeNone.png</file>
+        <file>ui/assets/locationMarker.png</file>
+        <file>ui/RightScreen/MarkerPoint.qml</file>
+        <file>ui/assets/cancelButton.png</file>
     </qresource>
 </RCC>

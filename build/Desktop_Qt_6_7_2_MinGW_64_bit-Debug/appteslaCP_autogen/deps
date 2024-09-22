@@ -1032,9 +1032,11 @@ appteslaCP_autogen/timestamp: \
 	E:/Programming/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	E:/Programming/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	E:/Programming/teslaCP/CMakeLists.txt \
+	E:/Programming/teslaCP/backend/Controllers/Implementation/LocationController.cpp \
 	E:/Programming/teslaCP/backend/Controllers/Implementation/SystemController.cpp \
 	E:/Programming/teslaCP/backend/Controllers/Implementation/TemperatureController.cpp \
 	E:/Programming/teslaCP/backend/Controllers/Implementation/VolumeController.cpp \
+	E:/Programming/teslaCP/backend/Controllers/LocationController.h \
 	E:/Programming/teslaCP/backend/Controllers/SystemController.h \
 	E:/Programming/teslaCP/backend/Controllers/TemperatureController.h \
 	E:/Programming/teslaCP/backend/Controllers/VolumeController.h \

@@ -16,5 +16,6 @@ E:/Programming/teslaCP/ui/LeftScreen/LeftScreen.qml
 E:/Programming/teslaCP/ui/RightScreen/MapConfig.qml
 E:/Programming/teslaCP/ui/RightScreen/TopBar.qml
 E:/Programming/teslaCP/ui/RightScreen/SearchBar.qml
+E:/Programming/teslaCP/ui/RightScreen/MarkerPoint.qml
 --json
 E:/Programming/teslaCP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appteslaCP_qmllint.json

@@ -68,6 +68,13 @@ namespace _qt_qml_teslaCP_ui_RightScreen_SearchBar_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qt_qml_teslaCP_ui_RightScreen_MarkerPoint_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -91,6 +98,7 @@ Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/teslaCP/ui/RightScreen/MapConfig.qml"), &QmlCacheGeneratedCode::_qt_qml_teslaCP_ui_RightScreen_MapConfig_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/teslaCP/ui/RightScreen/TopBar.qml"), &QmlCacheGeneratedCode::_qt_qml_teslaCP_ui_RightScreen_TopBar_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/teslaCP/ui/RightScreen/SearchBar.qml"), &QmlCacheGeneratedCode::_qt_qml_teslaCP_ui_RightScreen_SearchBar_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/teslaCP/ui/RightScreen/MarkerPoint.qml"), &QmlCacheGeneratedCode::_qt_qml_teslaCP_ui_RightScreen_MarkerPoint_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

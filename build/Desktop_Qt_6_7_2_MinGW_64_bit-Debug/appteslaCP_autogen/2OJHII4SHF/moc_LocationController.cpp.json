@@ -1,0 +1,311 @@
+{
+    "classes": [
+        {
+            "className": "LocationController",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "end_point",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newEnd_point",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "set_end_point",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "start_point",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newStart_point",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "set_start_point",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "y2",
+                    "returnType": "double"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newY2",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "set_y2",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "x2",
+                    "returnType": "double"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newX2",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "set_x2",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "y1",
+                    "returnType": "double"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newY1",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "set_y1",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "x1",
+                    "returnType": "double"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newX1",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "set_x1",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "reset",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newReset",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "set_reset",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "ready",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newReady",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "set_ready",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "start_point",
+                    "notify": "start_pointChanged",
+                    "read": "start_point",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "set_start_point"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "end_point",
+                    "notify": "end_pointChanged",
+                    "read": "end_point",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "set_end_point"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "reset",
+                    "notify": "resetChanged",
+                    "read": "reset",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "set_reset"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "ready",
+                    "notify": "readyChanged",
+                    "read": "ready",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "set_ready"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "x1",
+                    "notify": "x1Changed",
+                    "read": "x1",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "set_x1"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "y1",
+                    "notify": "y1Changed",
+                    "read": "y1",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "set_y1"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "x2",
+                    "notify": "x2Changed",
+                    "read": "x2",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "set_x2"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "name": "y2",
+                    "notify": "y2Changed",
+                    "read": "y2",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "set_y2"
+                }
+            ],
+            "qualifiedClassName": "backend::LocationController",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "start_pointChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "end_pointChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "y2Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "x2Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "y1Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "x1Changed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "resetChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "readyChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "LocationController.h",
+    "outputRevision": 68
+}

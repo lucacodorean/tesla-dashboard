@@ -28,6 +28,7 @@ qt_add_qml_module(appteslaCP
         QML_FILES ui/RightScreen/MapConfig.qml
         QML_FILES ui/RightScreen/TopBar.qml
         QML_FILES ui/RightScreen/SearchBar.qml
+        QML_FILES ui/RightScreen/MarkerPoint.qml
     RESOURCES qml.qrc
 
     SOURCES backend/Controllers/SystemController.h
@@ -36,6 +37,8 @@ qt_add_qml_module(appteslaCP
     SOURCES backend/Controllers/Implementation/TemperatureController.cpp
     SOURCES backend/Controllers/VolumeController.h
     SOURCES backend/Controllers/Implementation/VolumeController.cpp
+    SOURCES backend/Controllers/LocationController.h
+    SOURCES backend/Controllers/Implementation/LocationController.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
